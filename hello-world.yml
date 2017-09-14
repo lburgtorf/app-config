@@ -7,3 +7,11 @@ security:
 management:
   security:
     enabled: false # turn off securing the actuator endpoints
+
+logging:
+  level:
+    io:
+      pivotal: DEBUG
+
+greeting:
+  displayFortune: false
