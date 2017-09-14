@@ -14,4 +14,4 @@ logging:
       pivotal: DEBUG
 
 greeting:
-  displayFortune: false
+  displayFortune: true
